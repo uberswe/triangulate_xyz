@@ -15,7 +15,7 @@ require (
 	github.com/stripe/stripe-go/v72 v72.44.0
 	github.com/throttled/throttled/v2 v2.7.1
 	github.com/uberswe/emailx v0.2.0
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.1.0
 	golang.org/x/image v0.0.0-20201208152932-35266b937fa6
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/gorm v1.21.9
